@@ -12,3 +12,7 @@ it uses the bitwise not operator and then negates that the reason this works is 
 lets say we have 1 which is 0000 0001 in binary  
 then we bitwise not that which is 1111 1110 which is -1 in decimal  
 then we negate that so we get 2  
+
+## why is your code shit?
+my code is shit because i wrote this in like 5 minutes and then decided to put it on github  
+i might improve upon this in the future but for now it is how it is  
