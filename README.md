@@ -1,5 +1,5 @@
-# fast_add
-can add numbers fast
+# fast add one
+can add one to any integer fast
 
 ## how to use?
 copy fast_add.h into your project and include whereever you need it and use the fast_add_one function if you want to add one to anything but its fast  
