@@ -9,7 +9,7 @@ also provides functions for different lengths of integer these are simply with a
 ## how does it work?
 it uses the bitwise not operator and then negates that the reason this works is because of how two's complement works
 lets say we have 1 which is 0000 0001 in binary  
-then we bitwise not that which is 1111 1110 which is -1 in decimal  
+then we bitwise not that which is 1111 1110 which is -2 in decimal  
 then we negate that so we get 2  
 
 ## why is this code shit?
