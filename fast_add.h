@@ -2,23 +2,23 @@
 #ifndef FAST_ADD_H
 #define FAST_ADD_H
 
-inline int fast_add_one(int n) {
+int fast_add_one(int n) {
     return -~n;
 }
 
-inline char fast_add_one(char n) {
+char fast_add_onec(char n) {
     return -~n;
 }
 
-inline short int fast_add_one(short int n) {
+short int fast_add_ones(short int n) {
     return -~n;
 }
 
-inline long int fast_add_one(long int n) {
+long int fast_add_onel(long int n) {
     return -~n;
 }
 
-inline long long int fast_add_one(long long int n) {
+long long int fast_add_onell(long long int n) {
     return -~n;
 }
 

@@ -3,8 +3,6 @@ can add one to any integer fast
 
 ## how to use?
 copy fast_add.h into your project and include whereever you need it and use the fast_add_one function if you want to add one to anything but its fast  
-the fast_add_one function accepts a single argument and returns the arguments number plus one its also inline because no extra function calls.  
-also provides functions for different lengths of integer these are simply with a different signature but not a different name so theres nothing that makes it difficult  
 
 ## how does it work?
 it uses the bitwise not operator and then negates that the reason this works is because of how two's complement works
